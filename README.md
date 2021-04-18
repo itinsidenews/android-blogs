@@ -125,6 +125,7 @@ See also: https://github.com/vbauer/java-blogs
 * TechnoTalkative http://www.technotalkative.com
 * TechnoWorm http://technoworm.com
 * Udi Cohen http://blog.udinic.com
+* IT INSIDE https://itinsidenews.com_
 * Veaceslav Gaidarji http://vgaidarji.me/#blog
 * Wiebe Elsinga http://wiebe-elsinga.com/blog/news/
 
